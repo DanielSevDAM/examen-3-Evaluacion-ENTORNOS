@@ -1,8 +1,8 @@
 /*
-*	grupo  :
-*	alumno :
-*	n.exp. :
-*	fecha  :
+*	grupo  : 1º GDAM
+*	alumno : Leo Daniel Sevillano Pantigoso
+*	n.exp. : 7246
+*	fecha  : 01/06/2022
  */
 package Cheese;
 
